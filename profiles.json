@@ -1,0 +1,10 @@
+{
+  "active": "Balance",
+  "profiles": [
+    { "name": "Battery Saver", "dcBoost": 0, "acBoost": 1, "dcEpp": 80, "acEpp": 40, "dcMin": 0, "acMin": 0 },
+    { "name": "Silent",        "dcBoost": 0, "acBoost": 0, "dcEpp": 70, "acEpp": 60, "dcMin": 0, "acMin": 0 },
+    { "name": "Balance",       "dcBoost": 0, "acBoost": 2, "dcEpp": 50, "acEpp": 25, "dcMin": 0, "acMin": 0 },
+    { "name": "Performance",   "dcBoost": 2, "acBoost": 2, "dcEpp": 15, "acEpp": 10, "dcMin": 0, "acMin": 0 },
+    { "name": "Game",          "dcBoost": 2, "acBoost": 2, "dcEpp": 0,  "acEpp": 0,  "dcMin": 0, "acMin": 40 }
+  ]
+}

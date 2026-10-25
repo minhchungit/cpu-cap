@@ -1,0 +1,9 @@
+# build outputs
+*.exe
+*.sys
+
+# runtime state
+desired.json
+state.txt
+watchdog.log
+install.log
