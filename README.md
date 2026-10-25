@@ -1,5 +1,7 @@
 # CpuCap
 
+*[Tiếng Việt](README.vi.md)*
+
 A tiny Windows system-tray utility for **Intel Macs running Windows via Boot Camp**.
 
 It caps CPU turbo boost (for heat/battery), takes manual control of the Mac's
